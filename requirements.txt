@@ -11,4 +11,4 @@ pypresence @ https://github.com/qwertyquerty/pypresence/archive/master.zip#sha25
 pywin32-ctypes==0.2.3
 requests==2.32.3
 setuptools==78.1.1
-urllib3==2.2.3
+urllib3==2.5.0
