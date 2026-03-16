@@ -7,7 +7,7 @@ on:
 
 jobs:
   build:
-    runs-on: windows-latest  # Set the runner to Windows
+    runs-on: blacksmith-4vcpu-windows-2025  # Set the runner to Windows
 
     steps:
     - name: Checkout code
