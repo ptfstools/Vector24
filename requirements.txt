@@ -1,7 +1,7 @@
 altgraph==0.17.4
 certifi==2024.8.30
 charset-normalizer==3.3.2
-idna==3.10
+idna==3.15
 packaging==24.1
 pefile==2024.8.26
 pygame==2.6.1
